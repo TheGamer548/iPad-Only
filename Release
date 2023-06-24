@@ -1,8 +1,8 @@
-Origin: <Ipad only>
-Label: <iPad ONLY >
+Origin: Reposi3
+Label: Reposi3
 Suite: stable
 Version: 1.0
-Codename: cydia-ios
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: <iPad Only>
+Description: Reposi3 - a cydia repo template
